@@ -1,6 +1,8 @@
+Built 100% with AI (Claude by Anthropic & Antigravity) by a Data Analyst (Sanjay Polamarasetti), not a Developer.
+
 # 🇮🇳 India Tax Calculator FY 2025-26
 
-> **Find out which tax regime saves you more money — in under 3 minutes.**
+> **Find out which tax regime saves you more money in under 3 minutes.**
 
 🔗 **Live Demo:** [india-tax-calculator-omega.vercel.app](https://india-tax-calculator-omega.vercel.app)
 
@@ -10,7 +12,7 @@
 
 ## 📌 About
 
-A free, privacy-first India Tax Calculator built for salaried employees. Answer 9 simple questions and instantly get a clear comparison of **New Regime vs Old Regime** — no Form 16, no CA needed.
+A free, privacy-first India Tax Calculator built for salaried employees. Answer 9 simple questions and instantly get a clear comparison of **New Regime vs Old Regime** - no Form 16, no CA needed.
 
 Everything runs on your device. No data is stored anywhere.
 
@@ -18,14 +20,14 @@ Everything runs on your device. No data is stored anywhere.
 
 ## ✨ Features
 
-- 🧮 **9-Step Wizard** — Simple questions anyone can answer
-- ⚡ **Live Tax Preview** — Updates in real time as you fill answers
-- 📊 **Analytical Dashboard** — Visual comparison of New vs Old Regime
-- 💡 **Smart Recommendation** — Clearly tells you which regime to pick
-- 🌙 **Light / Dark Mode** — Toggle anytime with one click
-- 🔒 **Privacy First** — Your data never leaves your browser
-- 📱 **Mobile Friendly** — Works on all devices
-- 🆓 **100% Free** — No login, no signup
+- 🧮 **9-Step Wizard** - Simple questions anyone can answer
+- ⚡ **Live Tax Preview** - Updates in real time as you fill answers
+- 📊 **Analytical Dashboard** - Visual comparison of New vs Old Regime
+- 💡 **Smart Recommendation** - Clearly tells you which regime to pick
+- 🌙 **Light / Dark Mode** - Toggle anytime with one click
+- 🔒 **Privacy First** - Your data never leaves your browser
+- 📱 **Mobile Friendly** - Works on all devices
+- 🆓 **100% Free** - No login, no signup
 
 ---
 
@@ -129,19 +131,19 @@ Step 9 → Other income & professional tax
 
 ## 🤖 Built With AI
 
-This project was built **100% using AI** (Claude by Anthropic) — zero manual code written. It demonstrates how a Data Analyst can ship real, production-ready web applications using AI-powered development.
+This project was built **100% using AI** (Claude by Anthropic & Antigravity) zero manual code written. It demonstrates how a Data Analyst can ship real, production-ready web applications using AI-powered development.
 
 ---
 
 ## 📸 Screenshots
 
-> Landing Page — Light Theme with Dark Mode toggle
+> Landing Page - Light Theme with Dark Mode toggle
 
-> 9-Step Wizard — Live tax preview on the right
+> 9-Step Wizard - Live tax preview on the right
 
-> Results Page — New vs Old Regime detailed breakdown
+> Results Page - New vs Old Regime detailed breakdown
 
-> Analytical Dashboard — Charts, KPIs, and plain language summary
+> Analytical Dashboard - Charts, KPIs, and plain language summary
 
 ---
 
@@ -161,5 +163,5 @@ This calculator provides **estimates only** based on the information entered. Pl
 
 ## ⭐ Support
 
-If you found this useful, please **star this repo** ⭐ — it helps others find it too!
+If you found this useful, please **star this repo** ⭐ - it helps others find it too!
 
