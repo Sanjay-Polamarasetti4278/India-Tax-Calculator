@@ -155,7 +155,7 @@ This calculator provides **estimates only** based on the information entered. Pl
 
 ## 👨‍💻 Author
 
-**Sanjay Polamarasetti**
+**Sanjay Polamarasetti - Data Analyst**
 - GitHub: [@Sanjay-Polamarasetti4278](https://github.com/Sanjay-Polamarasetti4278)
 - Live App: [india-tax-calculator-omega.vercel.app](https://india-tax-calculator-omega.vercel.app)
 
