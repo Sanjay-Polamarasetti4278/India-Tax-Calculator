@@ -1,4 +1,4 @@
-Built 100% with AI (Claude by Anthropic & Antigravity) by a Data Analyst (Sanjay Polamarasetti), not a Developer.
+Built 100% with AI (Claude by Anthropic & Antigravity) by Sanjay Polamarasetti (Data Analyst), not a Developer.
 
 # 🇮🇳 India Tax Calculator FY 2025-26
 
