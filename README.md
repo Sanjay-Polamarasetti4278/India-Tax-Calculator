@@ -37,7 +37,7 @@ The dashboard gives a complete visual breakdown:
 
 | Feature | Details |
 |--------|---------|
-| 📈 Bar Charts | Tax payable comparison — New vs Old |
+| 📈 Bar Charts | Tax payable comparison - New vs Old |
 | 🍩 Donut Charts | Tax as % of your gross income |
 | ⭐ KPI Cards | Total tax, savings, net income, recommendation |
 | 📋 Comparison Table | Side-by-side numbers in plain language |
